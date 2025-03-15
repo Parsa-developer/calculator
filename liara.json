@@ -1,0 +1,13 @@
+{
+  "app": "calculator-back",
+  "port": 80,
+  "build": {
+    "location": "iran"
+  },
+  "disks": [
+    {
+      "name": "database",
+      "mountTo": "path/to/folder"
+    }
+  ]
+}
